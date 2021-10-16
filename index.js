@@ -1,3 +1,4 @@
 module.exports = {
-    a: 'hello world'
+    a: 'hello world',
+    b: 34 + 60
 }
