@@ -1,3 +1,3 @@
 module.exports = {
-    a: 'hello another1!'
+    a: 'hello another1 commit1!'
 }
