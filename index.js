@@ -1,5 +1,6 @@
 module.exports = {
     a: 'hello world',
     b: 34 + 60,
-    c: (x, y) => x * y, 
+    /** @type {(x: number) => (y: number) => number} */
+    c: x => y => x * y, 
 }
